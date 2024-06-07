@@ -1,11 +1,5 @@
 # Virtual Background
 
-> Demo on adding virtual background to a live video stream in the browser.
-
-:point_right: [Try it live here!](https://volcomix.github.io/virtual-background)
-
-[![](./docs/screenshot.png)](https://volcomix.github.io/virtual-background)
-
 ## Table of contents
 
 - [Implementation details](#implementation-details)
